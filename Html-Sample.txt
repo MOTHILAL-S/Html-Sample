@@ -1,0 +1,10 @@
+echo "# Html-Sample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MOTHILAL-S/Html-Sample.git
+git push -u origin master
+
+
+git config --global user.name "MOTHILAL-S"
+git config --global user.email "smothilal1999@gmail.com"
